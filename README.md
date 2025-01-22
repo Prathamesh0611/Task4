@@ -1,3 +1,10 @@
+Name:Prathamesh Raju Punekar
+Company:CODTECH IT SOLUTIONS PVT.LTD
+Intern ID :CT12WEZM
+Domain:Data Science.
+Duration:December 2024-march 2025
+Mentor: Muzammil Ahmed
+
 # Objective
 Overview
 Automated data preprocessing and machine learning pipeline using Python, pandas, and scikit-learn. Loads Wine Quality dataset, preprocesses data, applies dimensionality reduction, trains Random Forest Classifier, and evaluates accuracy.
